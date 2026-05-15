@@ -56,17 +56,14 @@ Análise exploratória da base **State of Data Brasil 2023**, com foco no perfil
 
 ### 👥 Distribuição por Gênero
 
-<p align="center">
-  <img src="COLE_AQUI_IMAGEM_2_STATE_OF_DATA" width="700">
-</p>
+<img width="1439" height="796" alt="1000313007" src="https://github.com/user-attachments/assets/a6eff0aa-abc4-41e6-a74a-df3acd5bf0e0" />
 
 ---
 
 ### 🎨 Distribuição por Etnia
 
-<p align="center">
-  <img src="COLE_AQUI_IMAGEM_3_STATE_OF_DATA" width="700">
-</p>
+<img width="1439" height="802" alt="1000313004" src="https://github.com/user-attachments/assets/a433b218-ad7a-4f81-b14b-2704a93ae10b" />
+
 
 ---
 
