@@ -146,26 +146,7 @@ Exploração e análise de dados de cidades brasileiras com foco em:
 
 ---
 
-# 🚀 Conclusão
-
-Este portfólio demonstra competências práticas em:
-
-- Análise exploratória de dados (EDA)
-- Manipulação e tratamento de dados
-- Visualização e interpretação de dados
-- Organização de projetos de Data Science
-
----
-
-## 🔮 Possíveis Expansões
-
-- Machine Learning 🤖  
-- Dashboards interativos (Streamlit / Power BI) 📊  
-- Modelagem estatística avançada 📉  
-
----
-
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por estudante de **Ciência da Computação**, com foco em **Análise de Dados e Data Science**.
+Liane F. Heidemann 
 
