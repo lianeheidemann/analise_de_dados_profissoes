@@ -46,21 +46,15 @@ Análise exploratória da base **State of Data Brasil 2023**, com foco no perfil
 
 ## 📈 Principais Análises
 
-### 📊 Distribuição Etária por Profissão e Fatores Demográficos
-
-<p align="center">
-  <img src="COLE_AQUI_IMAGEM_1_STATE_OF_DATA" width="700">
-</p>
-
 ---
 
-### 👥 Distribuição por Gênero
+### 👥 Distribuição da faixa etária por profissão e gênero
 
 <img width="1439" height="796" alt="1000313007" src="https://github.com/user-attachments/assets/a6eff0aa-abc4-41e6-a74a-df3acd5bf0e0" />
 
 ---
 
-### 🎨 Distribuição por Etnia
+### 🎨 Distribuição da faixa etária por profissão e etnia/cor declarada
 
 <img width="1439" height="802" alt="1000313004" src="https://github.com/user-attachments/assets/a433b218-ad7a-4f81-b14b-2704a93ae10b" />
 
