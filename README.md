@@ -144,9 +144,3 @@ Exploração e análise de dados de cidades brasileiras com foco em:
 - Insights estatísticos consistentes  
 - Preparação de dados para análises futuras  
 
----
-
-## 👨‍💻 Autor
-
-Liane F. Heidemann 
-
