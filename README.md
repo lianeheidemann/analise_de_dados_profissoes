@@ -68,7 +68,7 @@ O projeto investiga padrões relacionados a:
 
 ## 🧰 Tecnologias
 
-- Python 🐍  
+- Python 
 - Pandas  
 - Matplotlib  
 - Seaborn  
@@ -129,7 +129,7 @@ Exploração e análise de dados de cidades brasileiras com foco em:
 
 ## 🧰 Tecnologias
 
-- Python 🐍  
+- Python 
 - Pandas  
 - NumPy  
 - Matplotlib  
