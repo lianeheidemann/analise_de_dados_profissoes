@@ -9,7 +9,7 @@
 
 ---
 
-# 📁 Projetos
+# 📁 Projeto
 
 ---
 
