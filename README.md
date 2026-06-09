@@ -9,32 +9,6 @@
 
 ---
 
-## 📌 Visão Geral
-
-Este repositório reúne projetos acadêmicos desenvolvidos com foco em **Análise Exploratória de Dados (EDA)** utilizando Python.
-
-Os projetos têm como objetivo demonstrar competências em:
-
-- Manipulação e limpeza de dados
-- Análise exploratória (EDA)
-- Visualização de dados
-- Extração de insights
-- Estruturação de pipelines de análise
-
----
-
-## 🧠 Competências Técnicas
-
-- Python para análise de dados
-- Pandas para manipulação e tratamento de dados
-- NumPy para operações numéricas
-- Matplotlib e Seaborn para visualização
-- Tratamento de dados ausentes e inconsistentes
-- Análise estatística descritiva
-- Storytelling com dados
-
----
-
 # 📁 Projetos
 
 ---
