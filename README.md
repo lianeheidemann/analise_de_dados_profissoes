@@ -47,14 +47,14 @@ Análise exploratória do dataset **State of Data Brasil 2023**, com foco no per
 ### 👥 Distribuição de idade por gênero e profissão
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a6eff0aa-abc4-41e6-a74a-df3acd5bf0e0"/>
-</p>
-
+  <img width="996" height="548" alt="1000332707" src="https://github.com/user-attachments/assets/00807681-8711-4d58-8506-5d10f157a989" />
+  
 ---
 
 ### 🌎 Distribuição de idade por etnia/cor e profissão
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a433b218-ad7a-4f81-b14b-2704a93ae10b"/>
+  
 </p>
+   <img width="996" height="548" alt="1000332708" src="https://github.com/user-attachments/assets/1f7ce168-a72e-4882-9922-72d27bab03d6" />
 
